@@ -17,11 +17,11 @@ Animated SVG header (top) provides a modern, kinetic identity — pseudo-3D cube
 
 ## Main Skills
 
-- **L A N G U A G E S  &  F R A M E W O R K S:** TypeScript · Python · Nest.js · Express.js · Angular · Next.js · Payload CMS
-- **D E V O P S  &  T O O L S:** Docker · Kubernetes · Git · GitHub Actions · CI/CD · Linux · AWS EC2
-- **D E E P  L E A R N I N G:** PyTorch
-- **D A T A B A S E S  &  O R M:** PostgreSQL · MongoDB · TypeORM · Prisma
-- **O T H E R S:** REST APIs · WebSockets · NGINX · Shadcn · Mantine · Zustand
+- **L A N GUAGES & F R AMEWO R K S :** TypeScript, Python, Nest.js, Express.js, Angular, Next.js, Payload CMS
+- **D E V O P S & T O O LS :** Docker, Kubernetes, Git, GitHub Actions, CI/CD, Linux, AWS EC2
+- **D EE P LE A R N I N G :** PyTorch
+- **D A T A B A SES & O RM :** PostgreSQL, MongoDB, TypeORM, Prisma
+- **O T H E R S :** REST APIs, WebSockets, NGINX, Shadcn, Mantine, Zustand
 
 ---
 
