@@ -1,34 +1,47 @@
-# <img src="assets/header.svg" alt="Amen Allah Ferjani" width="100%"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=120&section=header" alt="header"/> 
 
-<div align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=6C2BD9&width=435&lines=Hello%2C+it's+Amen+Allah+Ferjani;Full+Stack+Developer;Building+Scalable+Systems" alt="Full Stack Dev"/>
+</a>
 
-**Amen Allah Ferjani** — Full Stack Developer  
-"Building scalable, production-grade systems" 🚀
+<br/>
 
-</div>
+> *"Building systems that survive the real world."*
 
----
+<br/>
 
-## Visual Highlights
+## 🧑🏻‍💻 Tech Stack
 
-Animated SVG header (top) provides a modern, kinetic identity — pseudo-3D cubes and floating elements. For interactive 3D demos, link a CodeSandbox or include a GIF preview.
+[![My Skills](https://skillicons.dev/icons?i=ts,py,js,react,nextjs,angular,nestjs,nodejs,express,postgres,mongodb,docker,kubernetes,git,githubactions,linux,aws,nginx,tailwind,pytorch)](https://skillicons.dev)
 
----
+## 📊 GitHub Stats
 
-## Main Skills
+<p align="center">
+  <a href="https://github.com/amenferjani">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amenferjani&theme=tokyonight&border=6C2BD9&background=0D1117" alt="GitHub Streak"/>
+  </a>
+</p>
 
-- **L A N GUAGES & F R AMEWO R K S :** TypeScript, Python, Nest.js, Express.js, Angular, Next.js, Payload CMS
-- **D E V O P S & T O O LS :** Docker, Kubernetes, Git, GitHub Actions, CI/CD, Linux, AWS EC2
-- **D EE P LE A R N I N G :** PyTorch
-- **D A T A B A SES & O RM :** PostgreSQL, MongoDB, TypeORM, Prisma
-- **O T H E R S :** REST APIs, WebSockets, NGINX, Shadcn, Mantine, Zustand
 
----
+<p align="center">
+  <a href="https://github.com/amenferjani">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amenferjani&theme=tokyonight" alt="GitHub Contribution"/>
+  </a>
+</p>
 
-## Compact
 
-⚙️ Backend architecture · 🤖 AI/ML · 📦 Open-source
+## 📫 Connect with me
 
-## Contact
+<p align="center">
+    <a href="https://www.linkedin.com/in/ferjani-amen/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/Amenferjani">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="mailto:amenferjani23@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+</p>
 
-- GitHub: https://github.com/Amenferjani
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=120&section=footer" alt="footer"/>
