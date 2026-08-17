@@ -16,12 +16,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/amenferjani">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amenferjani&theme=tokyonight&border=6C2BD9&background=0D1117" alt="GitHub Streak"/>
-  </a>
-</p>
-
 
 <p align="center">
   <a href="https://github.com/amenferjani">
